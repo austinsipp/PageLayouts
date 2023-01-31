@@ -1,6 +1,23 @@
 span {
   display: inline-block;
 }
+
+li {
+  display:inline;
+  margin-left: 10px
+}
+
+#mini-layout {
+  text-align:center
+}
+
+#pic {
+  text-align:center
+}
+
+body {
+  text-align: center;
+}
 /* span {
   display: inline-block;
   background-color: lightblue;
